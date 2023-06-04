@@ -1,0 +1,159 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .bottom-left {
+    position: absolute;
+    bottom: 45%;
+    left: 30%;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    border-color: brown;
+    border-width: 10px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  /* Bottom right text */
+  .nextpage {
+    position: absolute;
+    bottom: 20%;
+    right: 25%;
+    
+  }
+  
+  /* Centered text */
+  .chapter {
+    position: absolute;
+    top: 18%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(39, 31, 31);
+  }
+  
+  .intro {
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    font-size: 35px;
+  }
+  .ch1-pg1 {
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    font-size: 26px;
+    color: rgb(142, 24, 24);
+  }
+  .ch1-pg2 {
+    position: absolute;
+    top: 15%;
+    right: 25%;
+  }
+  .ch2-pg2 {
+    position: absolute;
+    top: 18%;
+    left: 55%;
+    font-size: 20px;
+    color: rgb(86, 28, 28);
+  }
+  .sch-next-page {
+    position: absolute;
+    bottom: 20%;
+    right: 25%;
+  }
+  .ch3-pg1-intro {
+    position: absolute;
+    top: 25%;
+    left: 28%;
+    font-size: 20px;
+    color: brown;
+  }
+  .ch3-pg1-img {
+    position: absolute;
+    bottom: 20%;
+    left: 35%;
+  }
+  .ch3-pg2 {
+    position: absolute;
+    top: 18%;
+    right: 25%;
+  }
+  .ch3-img2 {
+    position: absolute;
+    top: 50%;
+    right: 25%;
+  }
+  .ch4-img1 {
+    position: absolute;
+    bottom: 30%;
+    left: 30%;
+  }
+  .ch4-pg2-r1 {
+    position: absolute;
+    top: 18%;
+    right: 20%;
+  }
+  .ch4-pg2-r2 {
+    position: absolute;
+    top: 45%;
+    right: 20%;
+  }
+  .ch5-img1 {
+    position: absolute;
+    bottom: 20%;
+    left: 30%;
+  }
+  .ch5-pg2-i2 {
+    position: absolute;
+    top: 20%;
+    left: 57%;
+  }
+  .ch5-pg2-i1 {
+    position: absolute;
+    top: 50%;
+    left: 57%;
+  }
+  .wish-img2 {
+    position: absolute;
+    top: 25%;
+    right: 26%;
+  }
+  .hbd {
+    position: absolute;
+    bottom: 30%;
+    left: 28%;
+    font-size: 35px;
+    color: brown;
+  }
+  .backpic {
+    position: absolute;
+    top: 25%;
+    left: 43%;
+  }
+  .love {
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    font-size: 35px;
+  }
+  .dad {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    font-size: 40px;
+  }
